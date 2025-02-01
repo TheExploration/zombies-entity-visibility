@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombies-visibility",
+  "name": "Zombies Entity Visibility",
+  "description": "A mod that helps playing Hypixel Zombies. For cornering visibility.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Exploration"],
+  "credits": "The Forge and FML guys, for making awesome api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
